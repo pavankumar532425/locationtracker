@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "566909881052",
+    "firebase_url": "https://location-tracker-6ac0b.firebaseio.com",
+    "project_id": "location-tracker-6ac0b",
+    "storage_bucket": "location-tracker-6ac0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566909881052:android:15f35e6727edecc1",
+        "android_client_info": {
+          "package_name": "com.example.pavan.locationtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566909881052-p3m3lbtr37clh48gtive16d87dcm9ptn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pavan.locationtracker",
+            "certificate_hash": "124991356777cd78d0ec17e6cf8d923e2cb2e94b"
+          }
+        },
+        {
+          "client_id": "566909881052-i72k654n0q8nqvh7vm613i7pbaplm6rm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pavan.locationtracker",
+            "certificate_hash": "1ed88a86bd6836407e380c702927c04929504a2f"
+          }
+        },
+        {
+          "client_id": "566909881052-18tgbqg5flen7r387b2vv62fvl18komj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6215Tx3OsgOi-1eZasCI4yMnOuaYy900"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566909881052-18tgbqg5flen7r387b2vv62fvl18komj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566909881052:android:446f26eee5fe1f01",
+        "android_client_info": {
+          "package_name": "u.xyz.pavan.locationtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566909881052-dus1f4r2el3arprakt8f1rmbufqdu4jf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "u.xyz.pavan.locationtracker",
+            "certificate_hash": "124991356777cd78d0ec17e6cf8d923e2cb2e94b"
+          }
+        },
+        {
+          "client_id": "566909881052-18tgbqg5flen7r387b2vv62fvl18komj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6215Tx3OsgOi-1eZasCI4yMnOuaYy900"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566909881052-18tgbqg5flen7r387b2vv62fvl18komj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/create_group"
+            android:title="@string/create_group" />
+        <item
+            android:id="@+id/join_group"
+            android:title="@string/join_group" />
+        <item
+            android:id="@+id/set_Home"
+            android:title="@string/set_home" />
+        <item
+            android:id="@+id/see_friends"
+            android:title="@string/see_friends" />
+        <item
+            android:id="@+id/set_alarm"
+            android:title="@string/set_alram" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/share_friends"
+                android:icon="@drawable/ic_menu_share"
+                android:title="invite_friends" />
+            <item
+                android:id="@+id/logout"
+                android:icon="@android:drawable/ic_lock_power_off"
+                android:title="Logout" />
+        </menu>
+    </item>
+</menu>
+

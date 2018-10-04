@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Location tracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="set_home">set_home</string>
+    <string name="create_group">create group</string>
+    <string name="join_group">join group</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_activity_map">map</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Exit</string>
+    <string name="see_friends">see friends on map</string>
+    <string name="loading">loading</string>
+    <string name="set_alram">set_Alarm</string>
+</resources>
